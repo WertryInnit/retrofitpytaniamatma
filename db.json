@@ -1,0 +1,46 @@
+{
+
+  "pytania":[
+
+    {
+
+        "tresc":"która liczba jest naturalna",
+
+        "opd_a":"-20",
+
+        "odb_b":"12",
+
+        "odp_c":"1.2",
+
+        "odp_poprawna":1
+
+    },{
+
+      "tresc":"która liczba jest pierwsza",
+
+        "opd_a":"16",
+
+        "odb_b":"18",
+
+        "odp_c":"23",
+
+        "odp_poprawna":2
+ 
+    },{
+
+      "tresc":"1+2*2+2",
+
+        "opd_a":"8",
+
+        "odb_b":"7",
+
+        "odp_c":"12",
+
+        "odp_poprawna":1
+
+    }
+
+  ]
+
+}
+ 
